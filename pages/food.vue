@@ -40,7 +40,7 @@
 	import axios from 'axios';
 	export default {
 		async asyncData() {
-			const food = await axios.get('https://raw.githubusercontent.com/jisu7487/5.26/master/food.json');
+			const food = await axios.get('https://raw.githubusercontent.com/jisu7487/w/main/food.json');
             //alert(Object.keys(food));
             console.log(Object.keys(food.data.message));
 			return {
