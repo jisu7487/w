@@ -1,3 +1,4 @@
-git add --all
-git commit -m "new chareet"
+git add .
+git branch -M main
+git commit -m "new chareeta"
 git push -u origin master
