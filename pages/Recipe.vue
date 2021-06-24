@@ -2,8 +2,8 @@
     <div>
         <section class = "hero is-link" style="text-align: center;">
             <div class="hero-body">
-                <p class="title"><i class="fas fa-first-aid"></i> 응급처치 방법</p>
-                <p class ="subtitle">캠핑 시 일어날 수 있는 안전사고 응급처치 방법</p>
+                <p class="title"><i class="fas fa-receipt"></i> 집에서먹는 한식!</p>
+                <p class ="subtitle">비빔밥 레시피를 알려드립니다.</p>
             </div>
         </section>
         <hr/>
@@ -11,7 +11,7 @@
             <div style="width: 15%;"></div>
             <div class="column" >
                 <article class="message" style="text-align: center;">
-                    <div class="message-header">자세한 내용을 보려면 안전사고의 이름을 클릭하세요.</div>
+                    <div class="message-header">메뉴를 선택해 주세요.</div>
                     <div class="message-body">
                         <table class = "table is-striped is-hoverable is-fullwidth">
                             <thead>
