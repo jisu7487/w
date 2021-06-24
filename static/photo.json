@@ -1,0 +1,31 @@
+{ 
+    "images": [ 
+        "/꼬막비빔밥.png",
+        "/돌솥비빔밥.png",
+        "/산채비빔밥.png",
+        "/상추비빔밥.png",
+        "/성게비빔밥.png",
+        "/육회비빔밥.png",
+        "/전주비빔밥.png"
+    ],
+    "names":[
+        "꼬막비빔밥",
+        "돌솥비빔밥",
+        "산채비빔밥",
+        "상추비빔밥",
+        "성게비빔밥",
+        "육회비빔밥",
+        "전주비빔밥"
+    ],
+    "link":[
+        "https://www.gocamping.or.kr/zboard/read.do?searchWrd=&pageIndex=1&lmCode=campSafe&searchCnd=&searchCate1=&pd_pkid=265",
+        "https://www.gocamping.or.kr/zboard/read.do?searchWrd=&pageIndex=1&lmCode=campSafe&searchCnd=&searchCate1=&pd_pkid=264",
+        "https://www.gocamping.or.kr/zboard/read.do?searchWrd=&pageIndex=1&lmCode=campSafe&searchCnd=&searchCate1=&pd_pkid=263",
+        "https://www.gocamping.or.kr/zboard/read.do?searchWrd=&pageIndex=1&lmCode=campSafe&searchCnd=&searchCate1=&pd_pkid=262",
+        "https://www.gocamping.or.kr/zboard/read.do?searchWrd=&pageIndex=1&lmCode=campSafe&searchCnd=&searchCate1=&pd_pkid=261",
+        "https://www.gocamping.or.kr/zboard/read.do?searchWrd=&pageIndex=1&lmCode=campSafe&searchCnd=&searchCate1=&pd_pkid=260",
+        "https://www.gocamping.or.kr/zboard/read.do?searchWrd=&pageIndex=1&lmCode=campSafe&searchCnd=&searchCate1=&pd_pkid=258"
+      
+    ]
+}
+

@@ -18,7 +18,8 @@
               <nuxt-link to="/Chart"
                 ><i class="fas fa-money-bill-alt"></i>&nbsp;가격변화 chart</nuxt-link>
         </li>
-        
+         <li><nuxt-link to="/Recipe"
+         ><i class="fas fa-receipt"></i>&nbsp;레시피</nuxt-link></li>
       </ul>
     </nav>
     <nuxt/>
