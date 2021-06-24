@@ -1,3 +1,3 @@
 git add --all
 git commit -m "new chart"
-git push -u origin 
+git push -u origin main
